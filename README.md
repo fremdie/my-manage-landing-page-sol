@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fremdie/my-manage-landing-page-sol)
+- Solution URL: [github](https://github.com/fremdie/my-manage-landing-page-sol)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -67,7 +67,7 @@ I loved learning to use Tailwindcss and I will continue to practice so that I ca
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/fremdie)
+- Frontend Mentor - [@fremdie](https://www.frontendmentor.io/profile/fremdie)
 - Twitter - [@AG_Ijeoma](https://www.twitter.com/AG_Ijeoma)
 - Github - [@fremdie](https://www.github.com/fremdie)
 
