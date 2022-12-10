@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github](https://github.com/fremdie/my-manage-landing-page-sol)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://fremdie.github.io/my-manage-landing-page-sol/)
 
 ## My process
 
