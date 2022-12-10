@@ -32,7 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![1](images/Screenshot1.png)
+![2](images/Screenshot 2.png)
 
 
 ### Links
